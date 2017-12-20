@@ -4,3 +4,4 @@ Changed Rmote
 Changed Local Repo
 Changed stage
 Changed work directory
+Changes in master for testing rebase
