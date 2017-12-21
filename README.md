@@ -6,3 +6,4 @@ Changed stage
 Changed work directory
 Changes in master for testing rebase
 Changes in bug_fix for testing rebase
+Copyright 2017 by Slz
